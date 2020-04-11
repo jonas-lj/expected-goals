@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 /**
  * This application computes the expected goals and distribution of the outcome of an example given in the
  * book <i>The Expected Goals Philosophy</i> by James Tippett. In the book, the distribution is computed by
@@ -7,6 +5,8 @@ import java.util.Arrays;
  *
  * Written by Jonas Lindstrøm (mail@jonaslindstrom.dk).
  */
+import java.util.Arrays;
+
 public class ExpectedGoals {
 
     /**
